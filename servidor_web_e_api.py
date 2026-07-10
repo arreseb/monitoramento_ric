@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-SISTEMA DE MONITORAMENTO DE RICs - GABPRE INSS
+SISTEMA DE MONITORAMENTO DE RICs
 Servidor Web Autônomo para Nuvem AWS (EC2)
 Tecnologias: Python, Flask, SQLite3 (Modo Concorrente WAL), HTML5/CSS3 Nativo
 """
